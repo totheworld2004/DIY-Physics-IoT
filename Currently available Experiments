@@ -1,6 +1,6 @@
-Mass and string vertical oscillator:
-    An electromagnet is attached to a motor through a screw and can move vertically.  At the begining it is magnetized and as it rises 
-    it attaches the mass which is made out of iron.  Then it moves down to pull down the mass and extend the string.  At that moment it is 
+Mass and spring vertical oscillator:
+    An electromagnet is attached to a motor through a long screw and can be moved vertically up and down.  At the begining it is magnetized and as it rises 
+    it attaches the mass which is made out of iron.  Then it moves down to pull down the mass and extend the spring.  At that moment it is 
     demagnetized and the mass starts to oscillate up and down. The motion of the mass is measured through an ultrasound distance sensor.
     The setup is shown in the picture:
     ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/image.png)
