@@ -3,7 +3,7 @@
     it attaches the mass which is made from iron.  Then it moves down to pull down the mass and extend the spring.  At that moment it is 
     demagnetized and the mass starts to oscillate up and down. The motion of the mass is measured through an ultrasound distance sensor.
     The setup is shown in the picture:
-    ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/spring%20oscillator1.jpg =400x300)
+    ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/spring%20oscillator1.jpg | width=100)
 ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/spring%20oscillator2.jpg =400x300
 )
 **Refraction and Reflection of light**   
