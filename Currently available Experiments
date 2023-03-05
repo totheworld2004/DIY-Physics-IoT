@@ -17,12 +17,17 @@ Refraction and Reflection of light
 ![Model]( https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/light%20refraction%20reflection2.jpg)
 
 Simple pendulum
-    A mass is hanged by a thin metallic road and can swing if it is initial drawn away from the vertical.  The initial angle is set using a step motor and a string attached to it and connects it to the metallic rod.  When the motor is activated the rod angle from the vertical increases until the rod reaches an energized electromagnet and is held there. When the electromagnet is deactivated, the pendulum starts to swing back and forth.  It's angle relative to the vertical is measured, and  data on the variation of the angle versus time are recorded for analyzing the motion.
+    A mass is hanged by a thin metallic road and can swing if it is initial drawn away from the vertical.  The initial angle is set using a step 
+    motor and a string attached to it and connects it to the metallic rod.  When the motor is activated the rod angle from the vertical increases
+    until the rod reaches an energized electromagnet and is held there. When the electromagnet is deactivated, the pendulum starts to swing back 
+    and forth.  It's angle relative to the vertical is measured, and  data on the variation of the angle versus time are recorded for analyzing
+    the motion.
 ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/pendulum.jpg)
 
 
 Energy boxes
-Polystyrene storage boxes where a window is cut and single or multiple glasses panels were placed.  These energy boxes are exposed to the environment and the temperature versus time inside and outside will be recorded for analyzing the energy behavior of each case.
+Polystyrene storage boxes where a window is cut and single or multiple glasses panels were placed.  These energy boxes are exposed to the
+environment and the temperature versus time inside and outside will be recorded for analyzing the energy behavior of each case.
 
 ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/heat%20energy%20boxes.jpg)
 
