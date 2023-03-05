@@ -3,9 +3,8 @@
     it attaches the mass which is made from iron.  Then it moves down to pull down the mass and extend the spring.  At that moment it is 
     demagnetized and the mass starts to oscillate up and down. The motion of the mass is measured through an ultrasound distance sensor.
     The setup is shown in the picture:
-    ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/spring%20oscillator1.jpg | width=100)
-![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/spring%20oscillator2.jpg =400x300
-)
+    ![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/spring%20oscillator1.jpg)
+![Model](https://github.com/totheworld2004/DIY-Physics-IoT/blob/main/spring%20oscillator2.jpg)
 **Refraction and Reflection of light**   
     A transparent cylinder is mounted on a disk dial graded in degrees, starting at zero degrees at the vertical axis and clockwise or counterclockwise.
     is taking values from 0 to 90 degrees.  The transparent cylinder is filled up to the middle with a liquid. A laser can be rotated through a step motor
